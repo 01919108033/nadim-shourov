@@ -1,0 +1,39 @@
+
+/* }
+hr{
+    border: 5px dotted white;
+    border-bottom: none;
+    width:50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* .carousel-item{
+    padding: 140px;
+    text-align: center;
+    border: 1px solid salmon;
+    transition: 3s; */
+    
+ 
+
+/* .carousel-item h1{
+    animation-name: nadim;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+} */
+
+/* / */
+@keyframes nadim{
+
+} */
+#shourov{
+    background-color: blue;
+    color: aquamarine;
+}
+*{
+    /* background-color: blue; */
+    color: aliceblue;
+}
+.carousel-item{
+padding: 350px;
+}
